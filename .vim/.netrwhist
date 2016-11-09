@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/admintools/admin_scripts'
+let g:netrw_dirhist_2='/home/kdavison/rpmbuild/RPMS/x86_64'
+let g:netrw_dirhist_3='/home/kdavison/.tmux'

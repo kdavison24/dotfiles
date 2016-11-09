@@ -1,0 +1,8 @@
+new-session -d
+split-window -d -t 0 -h
+new-window
+split-window -d -t 0 -h
+new-window
+split-window -d -t 0 -h
+
+select-window -t 1
